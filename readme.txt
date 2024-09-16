@@ -14,4 +14,3 @@ Penjelasan Menu Tools
 [3] Check Balance USDT|BUSD|BNB = yah jelas buat check balance, yang di cek disini USDT|BUSD|BNB tambah sendiri modify kode checkbalance.py
 
 
-Semoga JP 0.0000001% :V

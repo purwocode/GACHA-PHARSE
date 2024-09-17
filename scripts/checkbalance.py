@@ -1,5 +1,5 @@
 from web3 import Web3
-
+ 
 # Setup connection to BSC
 bsc = "https://bsc-dataseed.binance.org/"
 web3 = Web3(Web3.HTTPProvider(bsc))

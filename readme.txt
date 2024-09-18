@@ -13,4 +13,4 @@ Penjelasan Menu Tools
 [2] Make PrivKey+Wallet Form  Mnemonic = yang ini kalo anda punya list mnemonic mau buat di ubah jadi privkey+address untuk check balance
 [3] Check Balance USDT|BUSD|BNB = yah jelas buat check balance, yang di cek disini USDT|BUSD|BNB tambah sendiri modify kode checkbalance.py
 
-
+THANKS
